@@ -1,6 +1,6 @@
-<!-- Banner space (GIF goes here) -->
+
 <p align="center">
-  <!-- Insert your GIF banner -->
+  ![Azure Hsiao Banner (3) (1) (1)](https://github.com/user-attachments/assets/290046b4-a364-4b8f-9404-fff52eb06724)
 </p>
 
 <br/>
