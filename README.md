@@ -120,13 +120,9 @@ NDVI/NDWI, and spatial regression techniques.
 
 ---
 
-## 3D Contribution Graph
+## Activity Graph
 
-<div align="center">
-
-### Languages Graph
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureHsiao&layout=compact&theme=default&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AzureHsiao&bg_color=ffffff&color=000000&line=4c8eda&point=000000&area=true&hide_border=true)
 
 
 ## Connect with Me
