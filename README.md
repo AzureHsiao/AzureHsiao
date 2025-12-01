@@ -1,53 +1,130 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=600&color=000000&width=500&lines=Hi%2C+I'm+Timothy!;Data+Analytics;Optimization;Marketing+Insights" alt="Typing SVG" />
+<!-- Banner space (GIF goes here) -->
+<p align="center">
+  <!-- Insert your GIF banner -->
 </p>
 
-🎓 MS in Marketing Science & Business Analytics @ University of Pittsburgh  
-📊 Data and marketing analyst with experience in optimization, predictive modeling, and digital performance reporting  
-🧠 Passionate about turning messy data into clear insights that support business growth and strategic decisions  
-💬 Let’s connect if you’re working on data, tech, healthcare, or hip-hop music!
+<br/>
 
-![snake gif](https://github.com/Timothy0324/Timothy0324/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">AZURE HSIAO</h1>
+
+<p align="center">
+  Data Science · Marketing Analytics · Customer Behavior Modeling
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Azure.;I+analyze+data+to+understand+people.;I+turn+patterns+into+insight.;I+connect+analytics+with+real-world+decisions." alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔧 Tools & Skills
+## About Me
 
-**Programming / Data**  
+I’m Azure — a data and marketing analyst focused on **customer behavior**,  
+**analytics**, and **story-driven insight design**.
+
+My work blends technical modeling with an intuition for how people think and decide.  
+I enjoy transforming unstructured, messy data into insights that are clear,  
+useful, and aligned with real-world business decisions.
+
+I believe good analytics isn’t just accuracy — it’s clarity, intention, and impact.
+
+---
+
+## Tools & Skills
+
+### Programming & Data  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SPSS](https://img.shields.io/badge/-SPSS-003B6F?style=flat&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-032D6B?style=flat&logo=ibm&logoColor=white)
 
-**Analytics / BI Tools**  
+### Analytics & BI  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GA4](https://img.shields.io/badge/-Google%20Analytics%204-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-**CRM / Marketing Tools**  
+### CRM & Marketing Tech  
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- [AI-AHP Decision Agent](https://github.com/Timothy0324/ai-decision-agent-ahp-anp)  
-  The AI-AHP Decision Agent integrates structured decision logic (AHP) with AI-assisted data collection to deliver fast, explainable, and scalable recommendations for strategic market entry and investment decisions.  
-
-- [U.S. Energy Mix Optimization – Multi-Objective Model](https://github.com/Timothy0324/Optimizing-the-U.S.-Energy-Mix)  
-  Pareto-based Excel Solver model balancing cost, emissions & reliability  
-
-- [Spotify Popularity Analysis](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis)  
-  Python + Seaborn + Regression to explore audio features driving popularity  
+### 🔹 Urban Climate Analytics (Machine Learning + Satellite Data)
+Machine learning model predicting Urban Heat Island intensity using Sentinel-2 imagery,  
+NDVI/NDWI, and spatial regression techniques.  
+**Repo:** https://github.com/AzureHsiao/Urban-Climate-Analytics-NYC
 
 ---
 
-## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothy0324&theme=highcontrast&hide_border=false)
+### 🔹 U.S. Shipping Lead Time & Category Sales Dashboard
+Tableau dashboard analyzing shipping lead times, state performance, and revenue patterns  
+across U.S. regions and product categories.  
+**Repo:** https://github.com/AzureHsiao/Shipping-LeadTime-and-Sales-Dashboard-Tableau
 
 ---
 
-## 📫 Connect with Me
+### 🔹 Travel Behavior Analysis in Python
+Explores how demographic and preference patterns shape travel decisions using survey data.  
+Includes EDA, segmentation, and insights for message strategy.  
+**Repo:** https://github.com/AzureHsiao/Travel-Behavior-Analysis-in-Python
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/chingchenliu/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timmy.liu32@gmail.com)****
+---
+
+### 🔹 Customer Response Prediction (Python Modeling)
+Supervised learning project modeling customer response behavior using feature engineering,  
+EDA, and model evaluation.  
+**Repo:** https://github.com/AzureHsiao/Customer-Response-Prediction-in-Python
+
+---
+
+### 🔹 Global Beauty Consumer Insights
+Python analysis of global beauty consumer survey data to uncover demographic differences,  
+patterns of confidence, and behavior-based segment insights.  
+**Repo:** https://github.com/AzureHsiao/Beauty-consumer-behavior-analysis
+
+---
+
+### 🔹 AI-AHP Decision Engine
+A Python AHP decision engine supporting automated pairwise matrices,  
+criteria weighting, sensitivity analysis, and decision visualization.  
+**Repo:** https://github.com/AzureHsiao/AI-AHP-Decision-Engine-Hackathon
+
+---
+
+### 🔹 Retail Analytics Database (SQL)
+SQL project covering database design, physical schema, data import,  
+and analytics queries for retail and convenience-store behavior.  
+**Repo:** https://github.com/AzureHsiao/Retail-Analytics-Database-Management-SQL
+
+---
+
+### 🔹 World Values Survey: Child Values & Happiness
+Python analysis exploring how child-rearing values relate to happiness  
+across cultural regions using WVS data (2017–2022).  
+**Repo:** https://github.com/AzureHsiao/WVS-Child-Values-and-Happiness-Analysis
+
+---
+
+### 🔹 Bank Marketing Prediction (R)
+Predictive modeling in R analyzing which customers subscribe to term deposits using  
+EDA, logistic regression, and model interpretation.  
+**Repo:** https://github.com/AzureHsiao/Bank-Marketing-Prediction-in-R
+
+---
+
+## 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzureHsiao/AzureHsiao/main/profile-3d-contrib/profile-night-rainbow.svg" width="740"/>
+</p>
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azure-hsiao/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yih197@pitt.edu)
