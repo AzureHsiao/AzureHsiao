@@ -1,6 +1,8 @@
 
 <p align="center">
-  ![Azure Hsiao Banner (3) (1) (1)](https://github.com/user-attachments/assets/290046b4-a364-4b8f-9404-fff52eb06724)
+![Azure Hsiao Banner (3) (1) (1)](https://github.com/user-attachments/assets/29d9b06b-31b7-409f-b6c1-ecf7469dcbf0)
+
+ 
 </p>
 
 <br/>
