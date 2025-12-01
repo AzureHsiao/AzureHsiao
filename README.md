@@ -1,6 +1,6 @@
 
 <p align="center">
-AzureBanner.gif
+[AzureBanner.gif](https://github.com/AzureHsiao/AzureHsiao/blob/e2abf60616f92522adbf0d2c2b116dfd0c3ee472/AzureBanner.gif)
 
  
 </p>
