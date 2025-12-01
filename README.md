@@ -45,63 +45,22 @@ I believe good analytics isn’t just accuracy — it’s clarity, intention, an
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GA4](https://img.shields.io/badge/-Google%20Analytics%204-E37400?style=flat&logo=google-analytics&logoColor=white)
 
+### Marketing Tech & Growth Tools  
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0467DF?style=flat&logo=meta&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-0096D6?style=flat&logo=searchengineland&logoColor=white)
+![Marketing Cloud](https://img.shields.io/badge/-Marketing%20Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
 
 ## Featured Projects
 
-### 🔹 Urban Climate Analytics (Machine Learning + Satellite Data)
-Machine learning model predicting Urban Heat Island intensity using Sentinel-2 imagery,  
-NDVI/NDWI, and spatial regression techniques.  
-**Repo:** https://github.com/AzureHsiao/Urban-Climate-Analytics-NYC
-
----
 
 ### 🔹 U.S. Shipping Lead Time & Category Sales Dashboard
 Tableau dashboard analyzing shipping lead times, state performance, and revenue patterns  
 across U.S. regions and product categories.  
 **Repo:** https://github.com/AzureHsiao/Shipping-LeadTime-and-Sales-Dashboard-Tableau
-
----
-
-### 🔹 Travel Behavior Analysis in Python
-Explores how demographic and preference patterns shape travel decisions using survey data.  
-Includes EDA, segmentation, and insights for message strategy.  
-**Repo:** https://github.com/AzureHsiao/Travel-Behavior-Analysis-in-Python
-
----
-
-### 🔹 Customer Response Prediction (Python Modeling)
-Supervised learning project modeling customer response behavior using feature engineering,  
-EDA, and model evaluation.  
-**Repo:** https://github.com/AzureHsiao/Customer-Response-Prediction-in-Python
-
----
-
-### 🔹 Global Beauty Consumer Insights
-Python analysis of global beauty consumer survey data to uncover demographic differences,  
-patterns of confidence, and behavior-based segment insights.  
-**Repo:** https://github.com/AzureHsiao/Beauty-consumer-behavior-analysis
-
----
-
-### 🔹 AI-AHP Decision Engine
-A Python AHP decision engine supporting automated pairwise matrices,  
-criteria weighting, sensitivity analysis, and decision visualization.  
-**Repo:** https://github.com/AzureHsiao/AI-AHP-Decision-Engine-Hackathon
-
----
-
-### 🔹 Retail Analytics Database (SQL)
-SQL project covering database design, physical schema, data import,  
-and analytics queries for retail and convenience-store behavior.  
-**Repo:** https://github.com/AzureHsiao/Retail-Analytics-Database-Management-SQL
-
----
-
-### 🔹 World Values Survey: Child Values & Happiness
-Python analysis exploring how child-rearing values relate to happiness  
-across cultural regions using WVS data (2017–2022).  
-**Repo:** https://github.com/AzureHsiao/WVS-Child-Values-and-Happiness-Analysis
 
 ---
 
@@ -112,25 +71,63 @@ EDA, logistic regression, and model interpretation.
 
 ---
 
+### 🔹 Customer Response Prediction in Python
+Supervised learning project modeling customer response behavior using feature engineering,  
+EDA, and model evaluation.  
+**Repo:** https://github.com/AzureHsiao/Customer-Response-Prediction-in-Python
+
+---
+
+### 🔹 Retail Analytics Database (SQL)
+SQL project covering database design, physical schema, data import,  
+and analytics queries for retail and convenience-store behavior.  
+**Repo:** https://github.com/AzureHsiao/Retail-Analytics-Database-Management-SQL
+
+---
+
+### 🔹 AI-AHP Decision Engine
+A Python AHP decision engine supporting automated pairwise matrices,  
+criteria weighting, sensitivity analysis, and decision visualization.  
+**Repo:** https://github.com/AzureHsiao/AI-AHP-Decision-Engine-Hackathon
+
+---
+
+### 🔹 Global Beauty Consumer Insights
+Python analysis of global beauty consumer survey data to uncover demographic differences,  
+patterns of confidence, and behavior-based segment insights.  
+**Repo:** https://github.com/AzureHsiao/Beauty-consumer-behavior-analysis
+
+---
+
+### 🔹 Travel Behavior Analysis in Python
+Explores how demographic and preference patterns shape travel decisions using survey data.  
+Includes EDA, segmentation, and insights for message strategy.  
+**Repo:** https://github.com/AzureHsiao/Travel-Behavior-Analysis-in-Python
+
+---
+
+### 🔹 World Values Survey: Child Values & Happiness
+Python analysis exploring how child-rearing values relate to happiness  
+across cultural regions using WVS data (2017–2022).  
+**Repo:** https://github.com/AzureHsiao/WVS-Child-Values-and-Happiness-Analysis
+
+---
+
+### 🔹 Urban Climate Analytics (Machine Learning + Satellite Data)
+Machine learning model predicting Urban Heat Island intensity using Sentinel-2 imagery,  
+NDVI/NDWI, and spatial regression techniques.  
+**Repo:** https://github.com/AzureHsiao/Urban-Climate-Analytics-NYC
+
+---
+
 ## 3D Contribution Graph
 
 <div align="center">
 
-### Capability Matrix
+### Languages Graph
 
-| Skill                     | Level |
-|--------------------------|-------|
-| Python                   | ● ● ● ○ ○ |
-| SQL                      | ● ● ● ○ ○ |
-| Machine Learning         | ● ● ● ○ ○ |
-| Marketing Analytics      | ● ● ● ● ○ |
-| Customer Analytics       | ● ● ● ● ○ |
-| Data Visualization       | ● ● ● ● ○ |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureHsiao&layout=compact&theme=default&hide_border=true)
 
-</div>
-
-
----
 
 ## Connect with Me
 
