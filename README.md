@@ -6,6 +6,8 @@
 🧠 Passionate about turning messy data into clear insights that support business growth and strategic decisions  
 💬 Let’s connect if you’re working on data, tech, healthcare, or hip-hop music!
 
+![snake gif](https://github.com/Timothy0324/Timothy0324/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🔧 Tools & Skills
