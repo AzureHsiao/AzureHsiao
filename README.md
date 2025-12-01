@@ -120,15 +120,18 @@ NDVI/NDWI, and spatial regression techniques.
 
 ---
 
-## Activity Graph
+## Capability Matrix
 
-<div align="center">
+| Category | Skills / Tools |
+|---------|----------------|
+| **Programming & Data** | Python · R · SQL · SPSS |
+| **Machine Learning & Modeling** | Regression · Classification · Random Forest · Predictive Modeling · Feature Engineering |
+| **Analytics & BI** | Tableau · Power BI · Excel (Pivot, Power Query) · GA4 · SPSS Statistics |
+| **Marketing Analytics** | Customer Behavior Analysis · Segmentation · Marketing Mix Insight · Campaign Performance Analytics |
+| **Marketing Tech & Platforms** | Salesforce · HubSpot · Google Ads · Meta Ads · SEO · Marketing Cloud |
+| **Business & Insight Strategy** | Insight Communication · Data Storytelling · Dashboard Design · Decision Frameworks (AHP/ANP) |
+| **Data Pipeline / Workflow** | Data Cleaning · EDA · Visualization · Data Validation · Reporting Automation |
 
-| Projects | Languages | Focus Areas |
-|---------|-----------|--------------|
-| 9 Public Projects | Python · SQL · R | UHI ML, Customer Behavior, Marketing Analytics |
-
-</div>
 
 
 
