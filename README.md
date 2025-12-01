@@ -122,14 +122,13 @@ NDVI/NDWI, and spatial regression techniques.
 
 ## Activity Graph
 
-<svg width="300" viewBox="0 0 120 120">
-  <circle cx="60" cy="60" r="50" fill="none" stroke="#000" stroke-width="0.5"/>
-  <text x="50%" y="20%" text-anchor="middle" font-size="6">Python</text>
-  <text x="90%" y="50%" text-anchor="middle" font-size="6">ML</text>
-  <text x="75%" y="90%" text-anchor="middle" font-size="6">SQL</text>
-  <text x="25%" y="90%" text-anchor="middle" font-size="6">Marketing Analytics</text>
-  <text x="10%" y="50%" text-anchor="middle" font-size="6">Customer Analytics</text>
-</svg>
+<div align="center">
+
+| Projects | Languages | Focus Areas |
+|---------|-----------|--------------|
+| 9 Public Projects | Python · SQL · R | UHI ML, Customer Behavior, Marketing Analytics |
+
+</div>
 
 
 
