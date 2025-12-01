@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Azure.;I+analyze+data+to+understand+people.;I+turn+patterns+into+insight.;I+connect+analytics+with+real-world+decisions." alt="Typing SVG" />
 </p>
 
----
+
 
 ## About Me
 
@@ -30,7 +30,6 @@ useful, and aligned with real-world business decisions.
 
 I believe good analytics isn’t just accuracy — it’s clarity, intention, and impact.
 
----
 
 ## Tools & Skills
 
@@ -46,10 +45,7 @@ I believe good analytics isn’t just accuracy — it’s clarity, intention, an
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GA4](https://img.shields.io/badge/-Google%20Analytics%204-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-### CRM & Marketing Tech  
-![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
----
 
 ## Featured Projects
 
@@ -118,9 +114,21 @@ EDA, logistic regression, and model interpretation.
 
 ## 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AzureHsiao/AzureHsiao/main/profile-3d-contrib/profile-night-rainbow.svg" width="740"/>
-</p>
+<div align="center">
+
+### Capability Matrix
+
+| Skill                     | Level |
+|--------------------------|-------|
+| Python                   | ● ● ● ○ ○ |
+| SQL                      | ● ● ● ○ ○ |
+| Machine Learning         | ● ● ● ○ ○ |
+| Marketing Analytics      | ● ● ● ● ○ |
+| Customer Analytics       | ● ● ● ● ○ |
+| Data Visualization       | ● ● ● ● ○ |
+
+</div>
+
 
 ---
 
